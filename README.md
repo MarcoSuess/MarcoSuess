@@ -22,8 +22,7 @@ export class Developer() {
  ngOnInit() {
     let Marco: Developer = new Developer(
     'Marco',
-     22, ![145882523-24839a22-b01b-4ab6-a461-31f2342f748d](https://user-images.githubusercontent.com/81395283/145893568-4159812c-4de8-48d1-8394-8c155747ae88.png)
-
+     22, 
     ['Javascript', 'Typescript', 'Angular', 'HTML', 'CSS', 'Firebase']
     );
   } 
