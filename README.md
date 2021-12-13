@@ -1,11 +1,13 @@
 
+<h1> Hi there 👋 </h1>
+
+<h2> A little more about me...    </h2>
+
+
+
+
+ 
   
-
-<img  width="100" height="100"  src="https://user-images.githubusercontent.com/81395283/145882523-24839a22-b01b-4ab6-a461-31f2342f748d.png">
-  
-
-
-
 
 ```javascript  
 export class Developer() {
