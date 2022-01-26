@@ -27,7 +27,7 @@ export class Developer() {
  ngOnInit() {
     let Marco: Developer = new Developer(
     'Marco',
-     22, 
+     23, 
     ['Javascript', 'Typescript', 'Angular', 'HTML', 'CSS', 'Firebase']
     );
   } 
